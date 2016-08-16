@@ -1,0 +1,60 @@
+
+body {
+	font-family: Verdana;
+	background: url("../img/conejito.png");
+}
+
+h1 {
+	color: #FF009A;
+	border: 2px solid;
+    border-radius: 15px;
+}
+
+h2 {
+	color: purple;
+}
+
+h3 {
+	color: #FF009A;
+	font-style: oblique;
+}
+
+a {
+	color: #00FF37;
+}
+
+div .summary {
+	color: pink;
+	background-color: black;
+
+}
+
+div .preamble {
+	background-color: pink;
+	color: purple;
+}
+
+div .explanation {
+	color: pink;
+	background-color: black;
+}
+
+div .participation {
+	color: red;
+	background-color: black;
+}
+
+div .benefits {
+	background-color: pink;
+	color: purple;
+}
+
+div .requirements {
+	background-color: #6F0E6C;
+	color: pink;
+}
+
+ul {
+	background-color: pink;
+	border-style: dotted;
+}
